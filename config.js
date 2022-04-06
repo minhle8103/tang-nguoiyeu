@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Chào em!',
-    introDesc: `Na thì đã mở mắt
-    Anh thì đã mở lời
-    Nhưng đm cuộc đời
-    Sao em lại từ chối :<`,
+    introTitle: 'Chào Hương!',
+    introDesc: `Tôi hỏi chú sâu xanh
+    Lá có gì mà thích
+    Chú sâu cười khúc khích
+    Thích đâu cần lí do: <`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 9h đánh daxua nhé.',
+    messDesc: 'Tối nay 9h ik chơi nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/minhnohu
+    messLink: 'https://www.facebook.com/minhnohu/' //link mess của các bạn. VD: https://m.me/minhnohu
 }
